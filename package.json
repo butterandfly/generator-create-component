@@ -1,0 +1,11 @@
+{
+  "name": "generator-create-component",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.18.9"
+  }
+}
